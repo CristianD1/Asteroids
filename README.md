@@ -1,39 +1,27 @@
-<h3><div style="text-align:center">About the program</div></h3>
+*About the program*
 
-			</br>
-
-			<p>This entire program was created with java's vector graphics ability and various mathematical algorithms.</br>
-
-				 Being nearly entirely dynamically generated (other than the menus), this was my first project on dynamic generation algorithms.</br></p>
+This entire program was created with java's vector graphics ability and various mathematical algorithms.
+ Being nearly entirely dynamically generated (other than the menus), this was my first project on dynamic generation algorithms.
+ 
 
 ![Alt text](/screens/Main.jpg "Title")
 
-			</br>
 
-			<p>There is a shop that allows you to upgrade specific abilities (including special abilities).</br>
+There is a shop that allows you to upgrade specific abilities (including special abilities).
+The abilities (such as bullet spread) are mathematically calculated to produce the desired effect.
 
-				 The abilities (such as bullet spread) are mathematically calculated to produce the desired effect.</p>
+![Alt text](/screens/shop.png "Title")
 
-			</br>
 
-			<img src="http://crdavid.com/MAINcrdavid/projects/asteroids/screens/shop.png">
+As levels progress, more asteroids get added for extra difficulty, and the speed of said asteroids increase.</br>
+ For fairness, the generation of asteroids is restricted such that both their initial path and their position would not immediately destroy the players ship.
 
-			</br>
 
-			<p>As levels progress, more asteroids get added for extra difficulty, and the speed of said asteroids increase.</br>
+![Alt text](/screens/level7.png "Title")
 
-			   For fairness, the generation of asteroids is restricted such that both their initial path and their position would not immediately destroy the players ship.</p>
 
-			</br>
+Each asteroid breaks apart into two separate and smaller asteroids (that are dynamically designed and created).
+At the same time, they occasionally drop a varying green square that gives money.
 
-			<img src="http://crdavid.com/MAINcrdavid/projects/asteroids/screens/level7.png">
 
-			</br>
-
-			<p>Each asteroid breaks apart into two separate and smaller asteroids (that are dynamically designed and created).</br>
-
-			   At the same time, they occasionally drop a varying green square that gives money.</br>
-
-			</br>
-
-			<img src="http://crdavid.com/MAINcrdavid/projects/asteroids/screens/asteroidsBreak.png">
+![Alt text](/screens/asteroidsBreak.png "Title")
